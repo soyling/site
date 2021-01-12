@@ -1,3 +1,7 @@
+---
+description: some work i've done in the past
+---
+
 # artwork
 
 ![untitled \(2018\) gouache, ink](.gitbook/assets/unnamed.png)
