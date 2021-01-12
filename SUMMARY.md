@@ -1,5 +1,6 @@
 # Table of contents
 
-* [what is up y'all](README.md)
-* [about](about.md)
+* [home](README.md)
+* [what's up guys](about.md)
+* [artwork](artwork.md)
 

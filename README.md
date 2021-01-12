@@ -1,6 +1,6 @@
 ---
-description: this is my website
+description: this is sophia's website for arts 74 (winter 2021)
 ---
 
-# what is up y'all
+# home
 
